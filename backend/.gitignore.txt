@@ -1,0 +1,10 @@
+# Azure Functions
+local.settings.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log

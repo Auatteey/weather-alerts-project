@@ -1,0 +1,7 @@
+azure-functions
+requests
+sendgrid
+python-dotenv
+azure-storage-blob
+mailersend
+
