@@ -61,6 +61,8 @@ def check_weather_alerts(city, weather):
     if "storm" in condition or "thunder" in condition:
         alerts.append(f"⛈️ Storm conditions detected in {city}: {condition}")
 
+    
+
     if alerts:
         return "\n".join(alerts)
     return None
